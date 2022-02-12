@@ -13,3 +13,7 @@
 13. Pop Up Icon Button
 14. Range Slider
 15. Visibility
+16. Bottom Navigation Bar
+17. PageView
+18. Bottom Model Sheet
+19. Animated Cross Fade
