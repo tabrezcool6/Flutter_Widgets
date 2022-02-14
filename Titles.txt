@@ -28,8 +28,8 @@
 28. Positioned
 29. Alert Dialog
 30. Tabel
-31. 
-32. 
-33. 
-34. 
-35. 
+31. Gesture Detector
+32. Interactive Viewer
+33. CheckBox Tile
+34. Seletable Tile
+35. InkWell
